@@ -1,28 +1,29 @@
-[
-    {
-        "title": "Хомячки джунгарские",
+
+  [  {
+        "title": "  ",
         "price": 150 ,
-        "image": "image 1(1).png",
+        "image": "artbreeder-image-2025-01-05T15_56_16.416Z.jpeg"
 
     },
     {
-        "title": "Котик мрамурний висловухий",
-        "price": 22 921 ,
-        "image": "image 3 - копія.png",
+        "title": "Котик мрамурний весловухий",
+        "price": 22921 ,
+        "image": "artbreeder-image-2025-01-05T15_57_36.814Z.jpeg"
 
     },
     {
         "title": "Британець короткошерстний",   
         "price": 600 ,
-        "image": "image 6.png",
+        "image": "artbreeder-image-2025-01-05T15_59_12.734Z.jpeg"  
     },
     {
-        "title": "Папугай хвилястий",
+        "title": "Папуга хвилястий",
         "price": 2000 ,
-        "image": "image 4.png",
+        "image": "artbreeder-image-2025-01-05T16_00_39.174Z.jpeg    " 
       },
     { 
-        "title": "Хомяк Сірійскький Закордонні",
+        "title": "Хомяк Сірійскький",
         "price": 400 ,
-        "image":"image 5.png"
-    },  
+        "image":"artbreeder-image-2025-01-05T16_03_03.167Z.jpeg"
+    }
+  ]

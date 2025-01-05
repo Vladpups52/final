@@ -99,7 +99,7 @@ header{
     justify-content: space-around;
     height: 80px;
     align-items: center;
-    background-color: #89A8B2;
+    background-color: #0915c1;
 
 }
 
@@ -147,7 +147,7 @@ header{
     align-items: center;
     justify-content: top;
     flex-direction: column;
-    background-image: url(img/depositphotos_75834705-stock-illustration-dog-bird-and-cat-with\jpg);
+    background-image: url(img/artbreeder-image-2025-01-05T15_38_54.288Z.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -156,7 +156,7 @@ header{
 .banner_title{
     margin: 200px 0px 0px 0px;
     font-size: 100px;
-    color: #ab49e3;
+    color: #0000005d;
     font-weight: 700;
     font-family: 'Caveat';
     backdrop-filter: blur(3px);
@@ -166,7 +166,7 @@ header{
 .banner_text{
     font-size: 48px;
     color: #fff;
-    background-color: rgb(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .catalog {
@@ -183,7 +183,7 @@ header{
     text-align: center;
     width: 30%;
     margin: 10px;
-    box-shadow: 0px 17px 22px -3px rgba(255, 98, 0);
+    box-shadow: 0px 17px 22px -3px rgb(0, 208, 255);
     transition: transform 0.2s;
 }
 
@@ -198,12 +198,12 @@ header{
 }
 
 .price {
-    color: green;
+    color: rgb(2, 152, 2);
     font-size: 1.2em;
 }
 
 .add-to-cart {
-    background-color: #89A8B2;
+    background-color: #9389b2;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -214,7 +214,7 @@ header{
 
 .add-to-cart:hover {
     transform: scale(1.1);
-    background-color: #632600;
+    background-color: #03b9b9;
     color: #fff;
 }
 
@@ -292,7 +292,7 @@ header{
 
 .comment{
     width: 50%;
-    background-color: #89A8B2;
+    background-color: #0e76d8;
     color: #fff;
     margin-bottom: 30px;
     display: flex;
@@ -313,7 +313,7 @@ header{
 }
 
 .review_btn{
-    background-color: #632600;
+    background-color: #1c0063;
         padding: 10px 40px;
         border-radius: 0 20px 20px 0;
         font-size: 20px;
@@ -324,13 +324,13 @@ header{
 }
 
 .review_btn:hover{
-    border: 2px solid #632600;
+    border: 2px solid #1c0063;
     background-color: #fff;
-    color: #632600;
+    color: #1c0063;
 }
 
 .review_input{
-    border: 2px solid #632600;
+    border: 2px solid #1c0063;
     padding: 12px 40px;
     border-radius: 20px 0 0 20px;
 }
@@ -346,7 +346,7 @@ header{
 }
 
 footer{
-    background-color: #89A8B2;
+    background-color: #a989b2;
     display: flex;
     justify-content: space-around;
     padding: 10px;
