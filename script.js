@@ -37,12 +37,16 @@ function getCardHTML(product) {
     <div class="product-card my-card">
                 <img src="img/${product.image}" alt="Product 1" class="product-image">
                 <h2>${product.title}</h2>
-                <p>${product.description}</p>
-                <p class="price"> ${product.price} грн</p>
+                
+                <p class="price"> ${product.price} грн</p>rcg
                 <button class="add-to-cart cart-btn" data-product='${productData}'>Add to Cart</button>
             </div>
     `;
 }
+
+// Функція пошуку товарів
+    function searchDefault
+
 
 // Відображаємо товари на сторінці
 getProducts().then(function (products) {

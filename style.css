@@ -358,3 +358,15 @@ iframe{
     width: 250px;
     height: 150px;
 }
+
+form{
+    background-color: #1c0063;
+    padding:10px;
+    width: fit-content;
+    border-radius: 42px;
+}
+
+.form_input{
+background-color: crimson; 
+}
+
